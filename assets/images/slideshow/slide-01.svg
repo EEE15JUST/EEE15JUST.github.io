@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-slide" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF8F4" />
+      <stop offset="100%" stop-color="#EBE2D5" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg-slide)"/>
+  <circle cx="1200" cy="400" r="450" fill="#C85A32" opacity="0.12"/>
+  <rect x="50" y="50" width="1820" height="980" rx="24" fill="none" stroke="#C85A32" stroke-width="3" stroke-dasharray="12 12" opacity="0.4"/>
+
+  <g transform="translate(960, 480)" text-anchor="middle">
+    <circle cx="0" cy="-90" r="64" fill="#C85A32"/>
+    <polygon points="-25,-70 25,-70 0,-115" fill="#FAF7F2"/>
+
+    <text y="40" font-family="'Playfair Display', Georgia, serif" font-size="52" font-weight="bold" fill="#1E201E">
+      Dedicated Slideshow Photograph
+    </text>
+    <text y="95" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="28" fill="#C85A32" font-weight="600">
+      [ Landscape Format • 1920 × 1080 ]
+    </text>
+    <text y="145" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="22" fill="#727572">
+      assets/images/slideshow/slide-01.jpg
+    </text>
+  </g>
+</svg>
